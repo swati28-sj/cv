@@ -1,0 +1,17 @@
+body{
+    background-color: pink;
+  }
+  h1{
+    color: #654062;
+    text-shadow: 2px 2px 2px orange;
+  }
+  h2{
+    color: #0a043c;
+  }
+  hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 4px;
+    width: 5%;
+  }
